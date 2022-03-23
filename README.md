@@ -73,4 +73,4 @@ $ npm run lint
 
 ## Contributing
 
-For contribution and feature requests, please create an [issue](./issues) first.
+For contribution and feature requests, please create an [issue](https://github.com/Jonas56/express-api/issues) first.
