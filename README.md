@@ -30,11 +30,11 @@ The application is production ready, and can be used behind a Nginx reverse prox
 
 ## Endpoints
 
-- `/register`
-- `/login`
-- `/books`
-- `/collection`
-- `/reading`
+- `v1/api/register`
+- `v1/api/login`
+- `v1/api/books`
+- `v1/api/collection`
+- `v1/api/reading`
 
 ## Quick start
 
