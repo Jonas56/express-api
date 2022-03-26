@@ -38,11 +38,11 @@ The application is production ready, and can be used behind a Nginx reverse prox
 
 ## Quick start
 
-- Copy and fill out envirenement variables
+- Copy and fill out environement variables
 
 ```console
 $ cp .env.example .env
-    fill out envirenement variables
+    fill out environement variables
 ```
 
 - Install dependencies
